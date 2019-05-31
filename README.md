@@ -1,4 +1,5 @@
 ## Roteiro do Workshop PyLadies Day - Junho 2019 
+Slides em: https://www.slideshare.net/LviaSouza32/intro-ao-git-e-github
 
 # Usando GIT
 
