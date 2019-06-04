@@ -28,3 +28,7 @@
 - Bio: Graduanda em Engenharia Eletrônica na UFPE
 - GitHub: [TigerRobocop](https://github.com/debmcardoso/)
 
+#### Nome: [Angélica Muniz](https://github.com/angelicamuniz/)
+- Onde moro: Encruzilhada, Recife - PE
+- Bio: Graduanda de Engenheria Eletrônica na UFPE e APX pela comunidade PyLadies
+- GitHub: [AngelicaMuniz](https://github.com/angelicamuniz/)
