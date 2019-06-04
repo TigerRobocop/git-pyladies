@@ -18,3 +18,7 @@
 - Bio: Sistemas de Informacao na UFRPE
 - GitHub: [ThaysCDS](https://github.com/ThaysCDS/)
 
+#### Nome: [Ana Paula](https://github.com/ana2pn/)
+- Onde moro: Areias, Recife - PE
+- Bio: Graduanda em Bacharelado em Sistemas de Informacao
+- GitHub: [ana2pn](https://github.com/ana2pn/)
