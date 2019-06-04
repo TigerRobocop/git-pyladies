@@ -22,3 +22,9 @@
 - Onde moro: Areias, Recife - PE
 - Bio: Graduanda em Bacharelado em Sistemas de Informacao
 - GitHub: [ana2pn](https://github.com/ana2pn/)
+
+#### Nome: [Débora Cardoso](https://github.com/debmcardoso/)
+- Onde moro: Espinheiro, Recife - PE
+- Bio: Graduanda em Engenharia Eletrônica na UFPE
+- GitHub: [TigerRobocop](https://github.com/debmcardoso/)
+
