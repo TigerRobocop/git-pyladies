@@ -7,3 +7,8 @@
 - Onde moro: Piedade, Jaboatão dos Guararapes - PE
 - dentista
 - GitHub: [georgyatravasso](https://github.com/georgyatravasso)
+
+#### Nome: [RaQUEL](https://github.com/raquelpaiva)
+- Onde moro: Candeias, Jaboatão dos Guararapes - PE
+- Bio: Comunidade PyLadies
+- GitHub: [](https://github.com/raquelpaiva)
