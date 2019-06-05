@@ -37,3 +37,13 @@
 - Onde moro: Caetés II, Abreu e Lima - PE
 - Bio: Desenvolvedora de Software na Avanade
 - GitHub: [GeysaPriscila](https://github.com/GeysaPriscila/)
+
+#### Nome: [Keila Viana](https://github.com/keilavg/)
+- Onde moro: São Lourenco da Mata
+- Bio: Estudante de Engenharia Eletronica - UFPE
+- GitHub: [TigerRobocop](https://github.com/keilavg)
+
+#### Nome: [Beatriz Camboim](https://github.com/bcamboim)
+- Onde moro: Recife, Pernambuco, Brasil
+- Bio: Estudante de Engenharia Eletrônica
+- GitHub: [bcamboim](https://github.com/bcamboim)
